@@ -9,7 +9,7 @@
 ---
 🚀 **Currently Working On:**  
 -  **RFP Project** — Expense Tracker, status-done.  
--  **Mini Project** — building innovative internship application for college with my team.
+-  **Mini Project** — Sharesphere Donation System, to donate money, clothes or food to nearby NGO's, status-done.
 -  **Personal projects** — tictactoe, pomodoro, todo, weather app, etc
   
   ---
