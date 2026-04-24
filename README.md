@@ -49,10 +49,14 @@ Watching Movies & series | Reading Books | Travelling | Exploring Tech
 
 
 ### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srisevitha&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" /><br> 
-<img src="https://nirzak-streak-stats.vercel.app/?user=srisevitha&theme=ambient_gradient&hide_border=false" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisevitha&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srisevitha&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srisevitha&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisevitha&layout=compact&theme=tokyonight" />
 </p>
 
 ---
